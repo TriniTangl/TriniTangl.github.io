@@ -1,12 +1,12 @@
 {
   "name": "Test Progressive Web App",
-    "short_name": "Test PWA",
-    "description": "It is a test PWA!",
-    "lang": "en-GB",
-    "start_url": "/",
-    "display": "standalone",
-    "theme_color": "#324A5E",
-    "background_color": "#324A5E",
+  "short_name": "Test PWA",
+  "description": "It is a test PWA!",
+  "lang": "en",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#324A5E",
+  "background_color": "#324A5E",
 
   "icons": [
     {
